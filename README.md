@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Java ☕
+# Data Structures and Algorithms ☕
 
 This repository contains my solutions and notes while learning **Data Structures and Algorithms (DSA) in Java** from scratch. The goal is to build strong problem-solving skills and prepare for software engineering internships and placements.
 
